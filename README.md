@@ -1,2 +1,1 @@
-# Cassandra
-Setup Multi Node cluster 
+# Configure a Multi-Node Cluster with Cassandra
